@@ -15,7 +15,7 @@ The goal of testpkg is to …
 
 ## Installation
 
-You can install the development version of testpkg from
+here you can install the development version of testpkg from
 [GitHub](https://github.com/) with:
 
 ``` r
